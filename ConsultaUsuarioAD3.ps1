@@ -1,0 +1,1 @@
+﻿Get-ADUser -Filter * -SearchBase "DC=intercargo,DC=COM, DC=ar" | Format-Table employeeID,pager,SamAccountName -A

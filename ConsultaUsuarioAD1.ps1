@@ -1,0 +1,1 @@
+﻿Get-ADUser  -Properties Company, SamAccountName, Name, Mail, Department, Title, PasswordNeverExpires, Enabled, Created

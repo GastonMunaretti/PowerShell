@@ -1,0 +1,1 @@
+﻿CSVDE -d “OU=Axxon,DC=intercargo,DC=com, DC=ar ” -r objectClass=user  -f c:\usuarios.csv

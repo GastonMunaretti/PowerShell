@@ -1,0 +1,1 @@
+﻿csvde  -r “(objectclass=user)” -m -f c:\dominio.csv

@@ -1,0 +1,1 @@
+﻿Get-ADUser -Filter {Enabled -eq "True"} | Select-Object SamAccountName,Name,Surname,GivenName,EmployeeID | Format-Table

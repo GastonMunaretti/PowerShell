@@ -1,0 +1,1 @@
+﻿Get-AdUser -Filter * -Properties *|more
